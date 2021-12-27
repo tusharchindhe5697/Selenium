@@ -9,6 +9,5 @@ public class Demo {
 	public static void demo1() {
 		
 		System.out.println("Hello, this is my first github repository");
-		System.out.println("Tushar Raosaheb Chindhe");
 	}
 }
